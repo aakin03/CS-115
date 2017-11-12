@@ -1,0 +1,3 @@
+Anthony: The Beatles,Billy Joel,Britney Spears,Elton John,Lady Gaga,Rihanna
+Ayse: Lady Antebellum,Danielle Bradbery,Hunter Hayes
+Jenn: Lady Antebellum,Billy Joel,Hunter Hayes,Johnny Cash,Lady Gaga
